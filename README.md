@@ -186,8 +186,3 @@ If unable to access the application:
 3. Ensure port 30001 is not being used by another application
 4. Try accessing the application using the node IP address
 
-## Contributing
-Feel free to submit issues and enhancement requests.
-
-## License
-[MIT License](LICENSE)
